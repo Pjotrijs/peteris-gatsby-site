@@ -1,2 +1,2 @@
-# peteris_gatsby_site
+# peteris-gatsby-site
 Test example for Peteris gatsby site
